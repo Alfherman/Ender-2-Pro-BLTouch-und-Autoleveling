@@ -17,11 +17,11 @@ Dabei den original Z- Stopp entfernen und durch BL Touch Anschluss ersetzen ( si
 ![BL Toch](https://user-images.githubusercontent.com/7778580/161447623-86126328-9e7d-4d9e-9ef0-4941bb0801f5.jpg)
 
 Danach: 
-- die .bin auf eine SD Karte kopiere
+- die .bin auf eine SD Karte kopieren
 - Drucker ausschalten
 - SD Karte einführen
 - Drucker einschalten
-- Firmware installiert sich selbtsändig
+- Firmware installiert sich selbständig
 
 Z-Offset einstellen(!!!!) 
 
